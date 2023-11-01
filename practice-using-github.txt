@@ -1,1 +1,2 @@
-File latihan menggunakan GitHub
+File latihan menggunakan GitHub.
+Ini adalah kalimat tambahan.
