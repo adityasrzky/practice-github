@@ -1,2 +1,3 @@
 Latihan branching dengan GitHub
+Ini adalah kalimat tambahan lagi
 Ini adalah kalimat tambahan
